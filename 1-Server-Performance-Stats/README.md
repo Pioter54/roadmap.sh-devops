@@ -1,4 +1,5 @@
 # Server Performance Stats
+This project from [roadmap.sh](https://roadmap.sh/projects/server-stats).
 > [!NOTE]
 >  Prepared for **Debian** based systems.
 ## Usage:
@@ -27,5 +28,3 @@
 - [x] load average
 - [x] logged in users
 - [x] failed login attempts
-
-This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
