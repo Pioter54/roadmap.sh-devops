@@ -4,7 +4,8 @@
 ## Usage:
 1. Clone git repository
 	```bash
-	git clone
+	git clone https://github.com/Pioter54/roadmap.sh-devops.git
+	cd 1-Server-Performance-Stats
 	```
 2. Make it executable
 	```bash
@@ -26,3 +27,5 @@
 - [x] load average
 - [x] logged in users
 - [x] failed login attempts
+
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
