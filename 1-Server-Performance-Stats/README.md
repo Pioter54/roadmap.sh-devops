@@ -1,5 +1,5 @@
 # Server Performance Stats
-This project from [roadmap.sh](https://roadmap.sh/projects/server-stats).
+This is project from [roadmap.sh](https://roadmap.sh/projects/server-stats).
 > [!NOTE]
 >  Prepared for **Debian** based systems.
 ## Usage:
